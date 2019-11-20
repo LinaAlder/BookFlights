@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookFlights</string>
+
+    <string-array name="cities">
+        <item>Moskow</item>
+        <item>New - York</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Melburn</item>
+        <item>Irkutsk</item>
+    </string-array>
+
+    <string-array name="flightClass">
+        <item>Economy</item>
+        <item>Business</item>
+        <item>First</item>
+    </string-array>
+</resources>
